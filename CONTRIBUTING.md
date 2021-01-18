@@ -2,6 +2,8 @@
 
 Your contributions are always welcome!
 
+# sende eine Emil an liblings_kollege_@yourFirm.com
+
 ## Guideline
 
 * Add one link per Pull Request.
